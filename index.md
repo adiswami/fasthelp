@@ -29,7 +29,7 @@ Content that is undergoing major edits.
 Content that is in the pipeline.
 
 
-I draw on content approaches, techniques, code snippets, technical documenentation and lessons from the following sources. I am indebted to their generosity for making deep learning accessible to so many. 
+I draw on content, approaches, techniques, code snippets, technical documenentation and lessons from the following sources. I am indebted to their generosity for making deep learning accessible to so many. 
 
 - [Practical Deep Learning for Coders](https://course.fast.ai/) taught by Jeremy Howard
 - [Applied ML in Production](https://madewithml.com/courses/applied-ml-in-production/) taught by Goku Mohandas
