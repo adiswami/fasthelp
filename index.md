@@ -9,7 +9,7 @@ permalink: /
 
 ## Welcome to Fast Help
 
-This website is intended to be used as a quick reference guide for deep learning and is targeted at practitioners who are new to the field.
+Fast Help is built to serve as a quick reference guide for deep learning and is targeted at practitioners who are new to the field.
 
 I add content as and when I learn something new and incorporate into my toolkit. 
 
@@ -18,14 +18,17 @@ Content is one of these stages.
 🧘🏽‍♂️ Not Started → 👷🏽 In Progress→ 🎉 Completed
 
 🎉 **Completed**
+
 Content that is on the site which I feel confident is complete. 
 
 
 👷🏽 **In Progress**
+
 Content on the site that I am working on and undergoing edits.
 
 
 🧘🏽‍♂️ **Not Started**
+
 Content that is in the pipeline.
 
 
