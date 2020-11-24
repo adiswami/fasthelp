@@ -3,7 +3,7 @@ layout: default
 title: Data Augmentation
 parent: Computer Vision
 nav_order: 2
-permalink: /docs/computer-vision/data-augmentation
+permalink: /computer-vision/data-augmentation
 ---
 
 # Data Augmentation
