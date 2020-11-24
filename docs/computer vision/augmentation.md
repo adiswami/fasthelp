@@ -1,5 +1,0 @@
-# Augmentation
-
-## Presizing
-
-Test
