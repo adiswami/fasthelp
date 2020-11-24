@@ -20,6 +20,6 @@ I draw on approaches, techniques, code snippets, technical documenentation and l
 - [Practical Data Ethics](https://ethics.fast.ai/) taught by Rachel Thomas
 - [PyTorch Tutorials - Complete Beginner Course](https://www.youtube.com/watch?v=EMXfZB8FVUA&list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4) taught by Patrick Loeber
 - [fastai](https://docs.fast.ai/) documentation
-- [Pytorch](https://pytorch.org/docs/stable/index.html) documentation
+- [PyTorch](https://pytorch.org/docs/stable/index.html) documentation
 
 
