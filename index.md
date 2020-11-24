@@ -9,7 +9,7 @@ permalink: /
 
 ## Welcome to Fast Help
 
-Fast Help is built to serve as a quick reference guide for deep learning and is targeted at practitioners who are new to the field.
+Fast Help is built to serve as a quick reference guide for deep learning and is targeted at practitioners who are new to the field. 
 
 I add content as and when I learn something new and incorporate into my toolkit. 
 
@@ -18,21 +18,18 @@ Content is one of these stages.
 🧘🏽‍♂️ Not Started → 👷🏽 In Progress→ 🎉 Completed
 
 🎉 **Completed**
-
-Content that is on the site which I feel confident is complete. 
+Content that is more or less complete.
 
 
 👷🏽 **In Progress**
-
-Content on the site that I am working on and undergoing edits.
+Content that is undergoing major edits.
 
 
 🧘🏽‍♂️ **Not Started**
-
 Content that is in the pipeline.
 
 
-I draw on content approaches, techniques, code snippets, technical documenentation and lessons from the following sources. I am indebted to their kindness and their generosity for making deep learning accessible to so many. 
+I draw on content approaches, techniques, code snippets, technical documenentation and lessons from the following sources. I am indebted to their generosity for making deep learning accessible to so many. 
 
 - [Practical Deep Learning for Coders](https://course.fast.ai/) taught by Jeremy Howard
 - [Applied ML in Production](https://madewithml.com/courses/applied-ml-in-production/) taught by Goku Mohandas
