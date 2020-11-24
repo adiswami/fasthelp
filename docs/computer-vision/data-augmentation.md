@@ -11,6 +11,7 @@ permalink: /computer-vision/data-augmentation
 ## Presizing
 
 A unique approach to data augmentation provided by the fastai library designed to minimize data destruction and maintain performance.  
+
 Presizing involves two steps and is used when constructing a DataBlock.
 
 1. Resize images to relatively "large" dimensions; ie. larger than the target training dimensions. This is done to each individual image and on the CPU.
