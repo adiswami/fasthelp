@@ -1,2 +1,3 @@
-# website
-learn how to build a website using github pages
+# Fast Help
+
+A quick reference guide for deep learning and is targeted at practitioners who are new to the field.
