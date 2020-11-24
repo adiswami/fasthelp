@@ -8,5 +8,5 @@ permalink: /docs/computer-vision
 
 # Computer Vision
 
-To make it as easy as possible to write documentation in plain Markdown, most UI components are styled using default Markdown elements with few additional CSS classes needed.
+Techniques and approaches to help solve computer vision problems.
 {: .fs-6 .fw-300 }
