@@ -1,6 +1,10 @@
 remote_theme: pmarsceill/just-the-docs
 title: Fast Help
 color_scheme: custom
+baseurl: "/just-the-docs" # the subpath of your site, e.g. /blog
+url: "https://pmarsceill.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+permalink: pretty
 
 # Enable or disable the site search
 # Supports true (default) or false
