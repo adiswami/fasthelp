@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Data Exploration
+title: Verification
 parent: Computer Vision
 nav_order: 4
 permalink: /computer-vision/verification
