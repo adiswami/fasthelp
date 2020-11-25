@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Collection
+title: Organise Data
 parent: Computer Vision
 nav_order: 1
-permalink: /computer-vision/collection
+permalink: /computer-vision/organise-data
 ---
 
-# Collection
+# Organise Data
 
 ## Create a path to your data
 
