@@ -15,10 +15,10 @@ permalink: /computer-vision/preparation
 ## Understand how your data is structured
 
 
-### **fastai method ```path.ls()```**
+### fastai method ```path.ls()```
 
 
-Common ways datasets are provided
+#### Common ways datasets are provided
 
 1. Individual files representing images organised into folders or with filenames representing information about those items
 
