@@ -14,6 +14,7 @@ permalink: /computer-vision/preparation
 
 ## Understand how your data is structured
 
+
 **fastai method ```path.ls()```**
 
 
