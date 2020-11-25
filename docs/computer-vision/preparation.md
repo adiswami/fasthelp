@@ -13,7 +13,9 @@ permalink: /computer-vision/preparation
 
 
 ## Understand how your data is structured
-```path.ls()```
+```
+path.ls()
+```
 
 Common ways datasets are provided
 
