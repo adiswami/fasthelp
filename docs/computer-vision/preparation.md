@@ -13,9 +13,9 @@ permalink: /computer-vision/preparation
 
 
 ## Understand how your data is structured
-```
-path.ls()
-```
+
+fastai method ```path.ls()```
+
 
 Common ways datasets are provided
 
