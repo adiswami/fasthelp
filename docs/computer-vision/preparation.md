@@ -23,7 +23,7 @@ permalink: /computer-vision/preparation
 You can understand how the data is organised with the ```path.ls()``` method provided by fastai.
 
 
-## Loss functions
+## Loss function
 
 We choose a loss function to help train our model. The loss function gives us a sense of the accuracy of the model's performance for a set of parameters. It does this by comparing our models activations with the targets (labels) in the training dataset. 
 
