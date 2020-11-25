@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Data Augmentation
+title: Augmentation
 parent: Computer Vision
-nav_order: 2
-permalink: /computer-vision/data-augmentation
+nav_order: 3
+permalink: /computer-vision/augmentation
 ---
 
-# Data Augmentation
+# Augmentation
 
 ## Presizing
 
