@@ -2,11 +2,11 @@
 layout: default
 title: Data Exploration
 parent: Computer Vision
-nav_order: 1
-permalink: /computer-vision/data-exploration
+nav_order: 4
+permalink: /computer-vision/verification
 ---
 
-# Data Exploration
+# Verification
 
 ## Check DataBlock
 
