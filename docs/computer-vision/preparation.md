@@ -25,4 +25,8 @@ You can understand how the data is organised with the ```path.ls()``` method pro
 
 ## Loss functions
 
+We choose a loss function to help train our model. The loss function gives us a sense of the accuracy of the model's performance for a set of paramaters. It does this by comparing our models activations with the targets (labels) in the training dataset. 
+
+The type of problem you are trying to solve will determine the type of loss function you end up using.
+
 ### Cross Entropy Loss
