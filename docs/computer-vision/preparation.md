@@ -11,7 +11,7 @@ permalink: /computer-vision/preparation
 ## Understand how your data is structured
 
 
-Common ways datasets are provided
+Datasets are commonly shared in the following ways
 
 1. Individual files representing images organised into folders or with filenames representing information about those items
 
